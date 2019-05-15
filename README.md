@@ -3,8 +3,7 @@ TiKTok 地区自由切换（封区解锁）和去水印。Unlock region limit & 
 Those configuration are specific to shadowroket app.
 此配置完美适用于小火箭，surge3版本请访问 @Choler同学的 https://github.com/Choler/TikTok.
 
-
-----------------
+```
 
 
 [Rule]
@@ -21,6 +20,7 @@ hostname = ,api*.tiktokv.com,*.musical.ly,
 enable = true
 
 
+```
 
 --------------------------
 tips:
