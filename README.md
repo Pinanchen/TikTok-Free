@@ -1,7 +1,7 @@
 # TikTok-Free
 TiKTok 地区自由切换（封区解锁）和去水印。Unlock region limit & Remove the watermark when downloading.
 Those configuration are specific to shadowroket app.
-此配置完美适用于小火箭，surge3版本请访问 @Choler同学的 https://github.com/Choler/TikTok.
+此配置完美适用于小火箭，可以复制粘贴到自己现有的规则中使用。surge3版本请访问 @Choler同学的 https://github.com/Choler/TikTok.
 
 ```
 
@@ -23,47 +23,68 @@ enable = true
 ```
 ** modify second region code```JP```in the sentence ```((carrier|account|sys)_region=)CN JP 302```to visit any country you want.US JP UK... 
  
-tips:
-For using MITM, you need A CA Certificate in shadowroket app.
-If you had never set a CA before. you need to set it first by following this:
-
-1.Generate A CA Certificate.
-2.install this New CA Certificate on your iphone.
-3.go to Settings -> General -> About ->Certificate Trust Settings to enable Shadowrocket certificate after the installation is completed.
-
-Then add Those configuration to your config file to enjoy it.
-
-
+ 
+##tips: <br>
+For using MITM, you need A CA Certificate in shadowroket app. <br>
+If you had never set a CA before. you need to set it first by following this:<br> 
+ <br>
+1.  Generate A CA Certificate. <br>
+2. install this New CA Certificate on your iphone.<br>
+3. go to Settings -> General -> About ->Certificate Trust Settings to enable Shadowrocket certificate after the installation    is completed.<br>
+Then add Those configuration to your config file to enjoy it.<br>
 
 
-
+##For green hands:<br>
 
 
 
+1<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/1.png) <br>
+next:
+2<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/2.png) <br>
+next:
+3<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/3.png) <br>
+next:
+4<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/4.png) <br>
+next:
+5<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/5.png) <br>
+next:
+6<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/6.png) <br>
+next:
+7<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/7.png) <br>
+next:
+8<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/8.png) <br>
+next:
+9<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/9.png) <br>
+next:
+10<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/10.png) <br>
+next:
+11<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/11.png) <br>
+next:
+12<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/12.png) <br>
+next:
+13<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/13.png) <br>
+next:
+14<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/14.png) <br>
+next:
+15<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/15.png) <br>
+next:
+16<br>
+![TikTok-Free](https://github.com/Pinanchen/TikTok-Free/blob/master/pics/16.png) <br>
 
 
-
-
-
-
-
-Also
-For green hands:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---------Over.<br>
