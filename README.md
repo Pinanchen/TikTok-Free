@@ -22,8 +22,8 @@ enable = true
 
 ```
   
-**For using MITM, you need A CA Certificate in shadowroket app. <br>
-**If you had never set a CA before. you need to set it first by following this:<br> 
+**For using MITM, you need A CA Certificate in shadowroket app.**<br>
+**If you had never set a CA before. you need to set it first by following this:**<br> 
  
 1.  Generate A CA Certificate. <br>
 2. install this New CA Certificate on your iphone.<br>
@@ -33,13 +33,14 @@ Then add Those configuration to your config file to enjoy it.
 <br>
 <br>
 <br>
- ## tips: <br>
-If you need, you can watch videos from different nations. Just modifying the second region code ```JP``` in ```((carrier|account|sys)_region=)CN <font color=red>JP </font> 302``` （default is ```JP``` means transfer to Japan).<br>
- **e.g 
+
+## tips: <br>
+If you need, you can watch videos from different nations. Just modifying the second region code```JP```in```((carrier|account|sys)_region=)CN JP 302``` （default is ```JP``` means transfer to Japan).<br>
+ **e.g**
  
- to US ：              ```((carrier|account|sys)_region=)CN US 302```<br>
- to UK ：              ```((carrier|account|sys)_region=)CN UK 302```<br>
- to Taiwan Province：  ```((carrier|account|sys)_region=)CN TW 302```<br>
+   to US ：              ```((carrier|account|sys)_region=)CN US 302```<br>
+   to UK ：              ```((carrier|account|sys)_region=)CN UK 302```<br>
+   to Taiwan Province：  ```((carrier|account|sys)_region=)CN TW 302```<br>
 
 
 ## For greenhand: <br>
