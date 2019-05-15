@@ -24,7 +24,7 @@ enable = true
 ** modify second region code```JP```in the sentence ```((carrier|account|sys)_region=)CN JP 302```to visit any country you want.US JP UK... 
  
  
-##tips: <br>
+## tips: <br>
 For using MITM, you need A CA Certificate in shadowroket app. <br>
 If you had never set a CA before. you need to set it first by following this:<br> 
  <br>
@@ -34,7 +34,7 @@ If you had never set a CA before. you need to set it first by following this:<br
 Then add Those configuration to your config file to enjoy it.<br>
 
 
-##For green hands:<br>
+## For green hands:<br>
 
 
 
