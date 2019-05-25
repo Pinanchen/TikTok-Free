@@ -3,6 +3,39 @@ TiKTok 地区自由切换（封区解锁）和去水印。Unlock region limit & 
 Those configuration are specific to shadowroket app.
 此配置完美适用于小火箭，可以复制粘贴到自己现有的规则中使用。surge3版本请访问 @Choler同学的 https://github.com/Choler/TikTok.
 
+**针对昨天小火箭的大更新（2.1.24）原版规则需要修改，否则可能导致闪退**
+**针对昨天小火箭的大更新（2.1.24）原版规则需要修改，否则可能导致闪退**
+
+新版shadowroket，对应规则：
+
+```
+
+
+[Rule]
+DOMAIN,api-h2.tiktokv.com,PROXY
+DOMAIN,api2-16-h2.musical.ly,PROXY
+
+[URL Rewrite]
+((carrier|account|sys)_region=)CN ((carrier|account|sys)_region=)jp 302
+(.*video_id=\w{32})(.*watermark=)(.*) (.*video_id=\w{32})(.*watermark=)(.*)$1 302
+
+[MITM]
+hostname = ,api*.tiktokv.com,*.musical.ly,
+
+
+
+```
+<br>
+<br>
+
+
+
+
+
+--------------------------------         原文            ---------------------------
+<br>
+<br>
+<br>
 ```
 
 
